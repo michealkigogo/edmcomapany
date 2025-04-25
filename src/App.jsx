@@ -70,7 +70,7 @@ const App = () => {
           <h2 className="section-title">About ED&M Engineering</h2>
           <div style={{maxWidth: '800px', margin: '0 auto'}}>
             <p>ED&M Engineering Company Limited is a premier civil engineering and consulting firm dedicated to delivering innovative, sustainable, and cost-effective solutions to our clients.</p>
-            <p>Founded in [YEAR], our company has grown to become a trusted partner for both public and private sector projects, with a reputation for excellence, integrity, and technical expertise.</p>
+            <p>Founded in 2024, our company has grown to become a trusted partner for both public and private sector projects, with a reputation for excellence, integrity, and technical expertise.</p>
             <p>Our team of certified engineers and consultants brings decades of combined experience to every project, ensuring the highest standards of quality and safety.</p>
           </div>
         </div>
@@ -114,7 +114,7 @@ const App = () => {
 
       <footer>
         <div className="container">
-          <p>&copy; 2023 ED&M Engineering Company Limited. All Rights Reserved.</p>
+          <p>&copy; 2025 ED&M Engineering Company Limited. All Rights Reserved.</p>
           <p>Professional Civil Engineering & Consulting Services</p>
         </div>
       </footer>
